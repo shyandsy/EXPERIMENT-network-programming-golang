@@ -1,7 +1,7 @@
 /*
 本代码演示了make分配内存自动扩容的用法
 */
-package main
+package golang
 
 import "fmt"
 
